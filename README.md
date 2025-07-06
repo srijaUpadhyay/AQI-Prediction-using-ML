@@ -1,1 +1,1 @@
-This is a project to briefly study the nature of concentration of different pollutants in 26 cities of India. Based on historical data of pollutant concentration and Air Quality Index (AQI) level, different Machine Learning models are built and trained to predict AQI.
+This is a project to briefly study the nature of concentration of different pollutants in 26 cities of India. Based on historical data of pollutant concentration and Air Quality Index (AQI) level, five Machine Learning models are built and trained to predict AQI.
